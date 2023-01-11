@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.65490e49.chunk.css",
-    "main.js": "./static/js/main.f07e58da.chunk.js",
-    "main.js.map": "./static/js/main.f07e58da.chunk.js.map",
+    "main.css": "./static/css/main.ec6b2e9b.chunk.css",
+    "main.js": "./static/js/main.4a2ee176.chunk.js",
+    "main.js.map": "./static/js/main.4a2ee176.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5ab78bcb.js",
     "runtime-main.js.map": "./static/js/runtime-main.5ab78bcb.js.map",
     "static/js/2.23ba0bbb.chunk.js": "./static/js/2.23ba0bbb.chunk.js",
     "static/js/2.23ba0bbb.chunk.js.map": "./static/js/2.23ba0bbb.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.65490e49.chunk.css.map": "./static/css/main.65490e49.chunk.css.map",
+    "static/css/main.ec6b2e9b.chunk.css.map": "./static/css/main.ec6b2e9b.chunk.css.map",
     "static/js/2.23ba0bbb.chunk.js.LICENSE.txt": "./static/js/2.23ba0bbb.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "./static/media/bg-sidebar-mobile.ad41661b.svg",
     "static/media/icon-advanced.705bd10c.svg": "./static/media/icon-advanced.705bd10c.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5ab78bcb.js",
     "static/js/2.23ba0bbb.chunk.js",
-    "static/css/main.65490e49.chunk.css",
-    "static/js/main.f07e58da.chunk.js"
+    "static/css/main.ec6b2e9b.chunk.css",
+    "static/js/main.4a2ee176.chunk.js"
   ]
 }
